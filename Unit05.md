@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS411: Non-Standard Computing"
+course_description: "An exploration of several prominent 'unconventional' computational methods and theories, including quantum computation, DNA and molecular computation, genetic algorithms, and cellular automata."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Theory of Quantum Computation: An Introduction** <span
 id="5"></span> 
 *In this unit, we start with the review of basic logic elements.  Then,

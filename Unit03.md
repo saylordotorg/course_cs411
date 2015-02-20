@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS411: Non-Standard Computing"
+course_description: "An exploration of several prominent 'unconventional' computational methods and theories, including quantum computation, DNA and molecular computation, genetic algorithms, and cellular automata."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Genetic Algorithms** <span id="3"></span> 
 *In this unit, we start with an overview of genetic algorithms.  Then,
 we show a practical example of genetic algorithms that demonstrate the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS411: Non-Standard Computing"
+course_description: "An exploration of several prominent 'unconventional' computational methods and theories, including quantum computation, DNA and molecular computation, genetic algorithms, and cellular automata."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS411: Non-Standard Computing"
 ---------------------------------------------------
 
