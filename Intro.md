@@ -95,3 +95,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 4](https://legacy.saylor.org/cs411/Unit04/)
 - [Unit 5](https://legacy.saylor.org/cs411/Unit05/)
 - [Unit 6](https://legacy.saylor.org/cs411/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CS/CS411/CS411-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CS/CS411/CS411-FinalExam-Answers.html)
