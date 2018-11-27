@@ -31,7 +31,7 @@ Upon successful completion of this unit, the student will be able to:
     Genetic Algorithms”**
     Link: www.rennard.org: Jean-Philippe Rennard’s “[Introduction to
     Genetic
-    Algorithms](http://www.saylor.org/site/wp-content/uploads/2011/06/CS411-3.1.pdf)”
+    Algorithms](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-3.1.pdf)”
     (HTML)  
         
      Instructions: Read this webpage for general overview of genetic
