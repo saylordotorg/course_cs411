@@ -8,6 +8,14 @@ previous: ../../../
 Course Syllabus for "CS411: Non-Standard Computing"
 ---------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_comm411) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This is a course that will cover several unconventional computational
 methods and theories, such as quantum computation, DNA and molecular
 computation, genetic algorithms, and cellular automata.  Note: Before
@@ -82,4 +90,14 @@ computer.
  √    Be competent in the English language.
 
 √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/cs411/Unit01/)
+- [Unit 2](https://legacy.saylor.org/cs411/Unit02/)
+- [Unit 3](https://legacy.saylor.org/cs411/Unit03/)
+- [Unit 4](https://legacy.saylor.org/cs411/Unit04/)
+- [Unit 5](https://legacy.saylor.org/cs411/Unit05/)
+- [Unit 6](https://legacy.saylor.org/cs411/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CS/CS411/CS411-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CS/CS411/CS411-FinalExam-Answers.html)
