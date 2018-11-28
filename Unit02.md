@@ -64,7 +64,7 @@ id="2.1.4"></span> 
 **2.2 Biocomputers** <span id="2.2"></span> 
 -   **Reading: Wikipedia: “Biocomputers”**
     Link: Wikipedia:
-    “[Biocomputers](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-2.2.pdf)”
+    “[Biocomputers](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-2.2.pdf)”
     (PDF)  
         
      Instructions: Read this webpage to learn about the development of
@@ -98,7 +98,7 @@ id="2.2.7"></span> 
 **2.3 Supramolecular Systems** <span id="2.3"></span> 
 -   **Reading: Wikipedia: “Supramolecular Chemistry”**
     Link: Wikipedia: “[Supramolecular
-    Chemistry](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Supramolecular-chemistry.pdf)”
+    Chemistry](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Supramolecular-chemistry.pdf)”
     (PDF)  
         
      Instructions: Read this webpage to learn about the concepts and
