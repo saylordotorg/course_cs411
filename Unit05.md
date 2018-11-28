@@ -75,7 +75,7 @@ Upon successful completion of this unit, the student will be able to:
     Samuel L. Braunstein's “Quantum Computation: a Tutorial”**
     Link: The University of York’s Department of Computer Science:
     Samuel L. Braunstein's “[Quantum Computation: a
-    Tutorial](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-5.1-1.pdf)”
+    Tutorial](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-5.1-1.pdf)”
     (HTML or PDF)  
         
      Instructions: From the site, click on the link for “Quantum
@@ -111,7 +111,7 @@ id="5.1.3"></span> 
     Samuel L. Braunstein's “Computation without ERASE”**
     Link: The University of York’s Department of Computer Science:
     Samuel L. Braunstein's “[Computation without
-    ERASE](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-5.1.5.pdf)”
+    ERASE](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-5.1.5.pdf)”
     (HTML or PDF)  
         
      Instructions: From the site, click on the link for “Quantum
@@ -145,7 +145,7 @@ id="5.1.6"></span> 
     Link: The University of York’s Department of Computer Science:
     Samuel L. Braunstein's [“Elementary Quantum Notation” and “Logic
     Gates for Quantum
-    Bits”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-5.1.6.pdf)
+    Bits”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-5.1.6.pdf)
     (HTML or PDF)  
         
      Instructions: From the site, click on the link for “Quantum
@@ -178,7 +178,7 @@ id="5.1.7"></span> 
     Samuel L. Braunstein's “Model Quantum Computer and Quantum Code”**
     Link: The University of York’s Department of Computer Science:
     Samuel L. Braunstein's “[Model Quantum Computer and Quantum
-    Code](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-5.1.7.pdf)”
+    Code](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-5.1.7.pdf)”
     (HTML or PDF)  
         
      Instructions: From the site, click on the link for “Quantum
@@ -211,7 +211,7 @@ id="5.1.8"></span> 
     Samuel L. Braunstein's “Quantum Parallelism: Period of a Sequence”**
     Link: The University of York’s Department of Computer Science:
     Samuel L. Braunstein's “[Quantum Parallelism: Period of a
-    Sequence](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-5.1.8.pdf)”
+    Sequence](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-5.1.8.pdf)”
     (HTML or PDF)  
         
      Instructions: From the site, click on the link for “Quantum
@@ -242,7 +242,7 @@ id="5.1.8"></span> 
     Samuel L. Braunstein's “Factoring Numbers” and “Prospects”**
     Link: The University of York’s Department of Computer Science:
     Samuel L. Braunstein's [“Factoring Numbers” and
-    “Prospects”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-5.1.9.pdf)
+    “Prospects”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-5.1.9.pdf)
     (HTML or PDF)  
         
      Instructions: From the site, click on the link for “Quantum

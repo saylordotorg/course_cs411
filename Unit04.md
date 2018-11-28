@@ -130,7 +130,7 @@ Upon successful completion of this unit, the student will be able to:
     “Cellular Neural Network”**
     Link: Scholarpedia: Tamás Roska and Giovanni E. Pazienza's
     “[Cellular Neural
-    Network](https://resources.saylor.org/archived/wp-content/uploads/2011/06/CS411-4.2.pdf)”
+    Network](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/CS411-4.2.pdf)”
     (HTML)  
         
      Instructions: Read the website to learn about standard CNN model,
